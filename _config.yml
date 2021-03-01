@@ -20,7 +20,7 @@ title                    : "Gossing's pages"
 title_separator          : "-"
 subtitle                 : "GoriTown" # site tagline that appears below site title in masthead
 name                     : "Gossing"
-description              : "Github page description"
+description              : "GoriTown FirstApplication"
 url                      : "https://withgossing.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/pages" # the subpath of your site, e.g. "/blog"
 repository               : "pages" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
